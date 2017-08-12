@@ -1,3 +1,4 @@
+
 package br.com.caelum.ingresso.model;
 
 import org.hibernate.validator.constraints.NotBlank;
